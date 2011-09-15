@@ -1,0 +1,3 @@
+module BigDummy
+  VERSION = "0.0.1"
+end
