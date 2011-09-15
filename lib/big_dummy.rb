@@ -1,5 +1,7 @@
 require "big_dummy/version"
 
 module BigDummy
-  # Your code goes here...
+  def self.two_plus_two
+    5
+  end
 end
